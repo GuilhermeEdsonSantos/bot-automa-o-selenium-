@@ -25,11 +25,11 @@ Este projeto é um bot desenvolvido com **Python** e **Selenium WebDriver** que 
    git clone https://github.com/GuilhermeEdsonSantos/bot-automa-o-selenium-.git
 
 2.Instale as dependências:
-bash
+```bash
 pip install selenium webdriver-manager
 
 3.Execute o script:
-bash
+```bash
 python app.py
 
 ⚠️ Atenção: Nunca deixe credenciais expostas no código. Use variáveis de ambiente ou arquivos .env.
