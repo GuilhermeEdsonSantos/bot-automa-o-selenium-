@@ -22,5 +22,4 @@ Este projeto é um bot desenvolvido com **Python** e **Selenium WebDriver** que 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-   cd nome-do-repo
+   git clone https://github.com/GuilhermeEdsonSantos/bot-automa-o-selenium-.git
